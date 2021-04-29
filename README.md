@@ -2,6 +2,8 @@
 
 This is a fun project to create some data pipelines for the [Mexico City Data Portal](https://datos.cdmx.gob.mx/pages/home/) using the available APIs.
 
+This project is being archived on 2021-04-28, due to the Mexico City data API no longer existing as it was developed for this repo.
+
 # What I learned
 
 For this project I used:
